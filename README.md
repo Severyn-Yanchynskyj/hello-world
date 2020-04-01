@@ -1,6 +1,6 @@
 # hello-world
 dvvs
-Hanoi Towers code(python):
+Hanoi towers code(python):
 
 L = [4, 3, 2, 1]
 C, R = [], []
