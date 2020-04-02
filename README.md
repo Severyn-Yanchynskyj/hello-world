@@ -25,7 +25,8 @@ print(L, C, R)
 count = 0
 Towers(4, L, C, R)
 print(count)
-Add the changes:
+
+#resolve conflicts:
  
 def bubbleSort(arr):
     n = len(arr)
@@ -33,4 +34,5 @@ def bubbleSort(arr):
         for j in range(1, n-i-1):
             if arr[j] > arr[j+1] :
                 arr[j], arr[j+1] = arr[j+1], arr[j]
+
 
